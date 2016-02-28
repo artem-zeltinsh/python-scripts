@@ -3,6 +3,7 @@ import math
 
 def sieve(n):
     """
+    Finds prime numbers up to a given n with the sieve of Eratosthenes.
     :param n: sieve boundary
     :return: prime numbers less or equal to a given n
     """
